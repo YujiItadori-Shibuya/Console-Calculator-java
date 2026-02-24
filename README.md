@@ -1,6 +1,4 @@
-Perfect 👍 Here’s a clean and professional **README.md** you can directly upload to GitHub for your Java Console Calculator project.
 
-You can copy-paste this into a file named:
 
 ```
 README.md

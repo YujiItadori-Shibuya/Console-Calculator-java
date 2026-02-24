@@ -125,12 +125,4 @@ This project is open-source and free to use for learning purposes.
 
 ---
 
-If you want, I can also:
 
-* Make a **more impressive GitHub-style README** with badges
-* Add GitHub shields (Java version, license, stars, etc.)
-* Create a professional project banner image
-* Help you write a proper Git commit message history
-* Guide you how to push this project step-by-step
-
-Just tell me 🚀
